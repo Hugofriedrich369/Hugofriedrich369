@@ -8,7 +8,7 @@ Atualmente estou programando um bot de Discord público nomeado como Ezra, O bot
   <li>Dusk Manager (discord.js v13 bot private) (terminado)
   <li>Trove Brasil BOT (discord.js v13 bot private) (terminado)
  </ul>
-<h3> ☕ | Linguagens </h3>
+<h2> ☕ | Linguagens </h2>
 <p>Algumas linguagens que possuo conhecimento:</p>
 <ul>
   <li>HTML & CSS</li>
@@ -17,7 +17,7 @@ Atualmente estou programando um bot de Discord público nomeado como Ezra, O bot
   <li>C++ & C#</li>
   <li>Kotlin</li>
  </ul>
- <h3>☕ | Extras </h3>
+ <h2>☕ | Extras </h2>
  <ul>
  <li>Angular</li>
  <li>SQL</li>
