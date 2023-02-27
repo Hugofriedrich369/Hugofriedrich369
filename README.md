@@ -16,5 +16,11 @@ Atualmente estou programando um bot de Discord público nomeado como Ezra, O bot
   <li>Java</li>
   <li>C++ & C#</li>
   <li>Kotlin</li>
-</ul>
+ </ul>
+ <h3>☕ | Extras </h3>
+ <ul>
+ <li>Angular</li>
+ <li>SQL</li>
+ <li>MongoDB</li>
+ </ul>
 </div>
