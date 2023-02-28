@@ -1,7 +1,6 @@
 <div>
 <h2> 📜 | Apresentação </h2>
-Olá, meu nome é Hugo Friedrich, tenho 18 anos e amo programar e fazer modelagem 3D. Eu sou um desenvolvedor de Discord BOT a linguagem que mais uso em meus bots é JavaScript, também ando aprendendo a programar em HTML e CSS para sites responsivos com JS.
-Atualmente estou programando um bot de Discord público nomeado como Ezra, O bot estará na versão v14 do DiscordJS recém lançada. O Ezra terá o intuito de ajudar servidores com administração e trazer uma diversão também para os membros.
+Olá, meu nome é Hugo Friedrich, tenho 18 anos e sou estudante de Desenvolvimento de Sistemas na ETEC. Estou fazendo um site E-Commerce em angular para vendas de produtos Java e JavaScript.
 <h2> 🗂️ | Projetos </h2>
  <ul>
   <li>InfiStore (Loja de Java e JS) (em desenvolvimento)
