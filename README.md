@@ -61,7 +61,14 @@ MongoDB
 </div>
  
  ## 📊 | Estatísticas
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hugofriedrich369&theme=dark">
- <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugofriedrich369&theme=dark">
- <br>
+ 
+<table align="center">
+    <tr>
+        <td> 
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hugofriedrich369&theme=dark"/>
+        </td>
+        <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugofriedrich369&theme=dark"/>
+        </td>
+    </tr>   
+</center>  
