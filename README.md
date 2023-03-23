@@ -3,7 +3,8 @@
 Olá, meu nome é Hugo Friedrich, tenho 18 anos e sou estudante de Desenvolvimento de Sistemas na ETEC. Estou fazendo um site E-Commerce em angular para vendas de produtos Java e JavaScript.
 <h2> 🗂️ | Projetos </h2>
  <ul>
-  <li>InfiStore (Loja de Java e JS) (em desenvolvimento)
+  <li>CEO Oblivion Store (Loja de Discord.js)
+    <li>InfiStore (Loja de Java e JS) (em desenvolvimento)
   <li>Dusk Manager (discord.js v13 bot private) (terminado)
   <li>Trove Brasil BOT (discord.js v13 bot private) (terminado)
  </ul>
