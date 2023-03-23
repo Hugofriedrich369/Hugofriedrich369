@@ -17,6 +17,7 @@ Olá, meu nome é Hugo Friedrich, tenho 18 anos e sou estudante de Desenvolvimen
 <img src="https://skillicons.dev/icons?i=html" width=24 height=24 align="left">
 HTML
 </div>
+<br>
 <div>
 <img src="https://skillicons.dev/icons?i=css" width=24 height=24 align="left">
 CSS
