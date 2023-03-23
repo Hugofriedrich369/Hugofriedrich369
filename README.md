@@ -5,9 +5,7 @@ Olá, meu nome é Hugo Friedrich, tenho 18 anos e sou estudante de Desenvolvimen
  
  <ul>
   <li>CEO Oblivion Store (Loja de Discord.js)
-    <li>InfiStore (Loja de Java e JS) (em desenvolvimento)
-  <li>Dusk Manager (discord.js v13 bot private) (terminado)
-  <li>Trove Brasil BOT (discord.js v13 bot private) (terminado)
+   <li>InfiStore (Loja de Java e JS) (em desenvolvimento)
  </ul>
  
 ## ☕ | Linguagens
