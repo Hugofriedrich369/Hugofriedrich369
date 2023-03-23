@@ -22,26 +22,32 @@ HTML
 <img src="https://skillicons.dev/icons?i=css" width=24 height=24 align="left">
 CSS
 </div>
+<br>
 <div>
 <img src="https://skillicons.dev/icons?i=js" width=24 height=24 align="left">
 JavaScript
 </div>
+<br>
 <div>
 <img src="https://skillicons.dev/icons?i=ts" width=24 height=24 align="left">
 TypeScript
 </div>
+<br>
 <div>
 <img src="https://skillicons.dev/icons?i=java" width=24 height=24 align="left">
 Java
 </div>
+<br>
 <div>
 <img src="https://skillicons.dev/icons?i=kotlin" width=24 height=24 align="left">
 Kotlin
 </div>
+<br>
 <div>
 <img src="https://skillicons.dev/icons?i=cpp" width=24 height=24 align="left">
 C++
 </div>
+<br>
 <div>
 <img src="https://skillicons.dev/icons?i=cs" width=24 height=24 align="left">
 C#
@@ -52,10 +58,12 @@ C#
 <img src="https://skillicons.dev/icons?i=angular" width=24 height=24 align="left">
 Angular
 </div>
+<br>
 <div>
 <img src="https://skillicons.dev/icons?i=mysql" width=24 height=24 align="left">
 mySQL
 </div>
+<br>
 <div>
 <img src="https://skillicons.dev/icons?i=mongodb" width=24 height=24 align="left">
 MongoDB
