@@ -1,6 +1,6 @@
 ## 📜 | Apresentação 
  
-Olá, meu nome é Hugo Friedrich, tenho 18 anos e sou estudante de Desenvolvimento de Sistemas na ETEC. Estou fazendo um site E-Commerce para vendas de produtos JavaScript.
+Olá, meu nome é Hugo Friedrich, tenho 18 anos e sou estudante de Desenvolvimento de Sistemas na ETEC. Estou fazendo um site E-Commerce para vendas de produtos JavaScript focados para a plataforma Discord.
 ## 🗂️ | Projetos
  
  <ul>
