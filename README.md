@@ -4,8 +4,7 @@ Olá, meu nome é Hugo Friedrich, tenho 18 anos e sou estudante de Desenvolvimen
 ## 🗂️ | Projetos
  
  <ul>
-  <li>CEO Oblivion Store (Loja de Discord.js) https://oblivionstore.me
-   <li>InfiStore (Loja de Java e JS) (em desenvolvimento)
+  <li>CEO Menth Store (Loja de Discord.js & Design) https://menth.com.br/discord
  </ul>
  
 ## ☕ | Linguagens
