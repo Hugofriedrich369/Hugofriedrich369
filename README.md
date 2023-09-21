@@ -52,8 +52,23 @@ C#
  
 ## ☕ | Extras
 <div>
+<img src="https://skillicons.dev/icons?i=nestjs" width=24 height=24 align="left">
+NestJS
+</div>
+<br>
+<div>
 <img src="https://skillicons.dev/icons?i=angular" width=24 height=24 align="left">
 Angular
+</div>
+<br>
+<div>
+<img src="https://skillicons.dev/icons?i=react" width=24 height=24 align="left">
+React e React Native
+</div>
+<br>
+<div>
+<img src="https://skillicons.dev/icons?i=flutter" width=24 height=24 align="left">
+Flutter
 </div>
 <br>
 <div>
