@@ -4,7 +4,7 @@ Olá, meu nome é Hugo Friedrich, tenho 18 anos e sou estudante de Desenvolvimen
 ## 🗂️ | Projetos
  
  <ul>
-  <li>CEO Menth Store (Loja de Discord.js & Design) https://menth.com.br/discord
+  <li> CEO Menth Store (Loja de Discord.js & Design) https://menth.com.br/discord
  </ul>
  
 ## ☕ | Linguagens
@@ -80,7 +80,12 @@ mySQL
 <img src="https://skillicons.dev/icons?i=mongodb" width=24 height=24 align="left">
 MongoDB
 </div>
- 
+<br>
+<div>
+<img src="https://skillicons.dev/icons?i=nextjs" width=24 height=24 align="left">
+NextJS
+</div>
+
  ## 📊 | Estatísticas
  
 <table align="center">
@@ -91,5 +96,5 @@ MongoDB
         <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugofriedrich369&theme=dark"/>
         </td>
-    </tr>   
+    </tr> 
 </center>  
