@@ -1,6 +1,6 @@
 ## 📜 | Apresentação 
  
-Olá, meu nome é Hugo Friedrich, tenho 19 anos e atuo como Application Developer na IBM.
+Olá, meu nome é Hugo Friedrich, tenho 20 anos e atuo como Application Developer na IBM.
  
 ## ☕ | Linguagens
 <p>Algumas linguagens que possuo conhecimento:</p>
